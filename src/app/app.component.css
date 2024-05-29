@@ -1,0 +1,22 @@
+.container{
+    margin: 20px auto;
+    width: 600px;
+}
+.prod{
+    display: flex;
+    justify-content: space-between;
+}
+.createproduct{
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+.allproducts{
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+input[type=text]{
+    width: 200px;
+}
+th{
+    padding: 5px 15px;
+}
